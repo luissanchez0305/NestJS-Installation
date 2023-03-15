@@ -1,6 +1,6 @@
 # EsferaSoluciones 
 
-Video explaining how to create a menu bar in ReactJS
+Video explaining how to install and use NestJS
 
 [Youtube](https://www.youtube.com/watch?v=iBLA11mYChQ)
 
